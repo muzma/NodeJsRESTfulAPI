@@ -1,0 +1,17 @@
+{
+    "pengguna1": {
+      "nama" : "Mustofa",
+      "pekerjaan" : "Developer",
+      "id" : 1
+    },
+  "pengguna2": {
+    "nama" : "Mahmud",
+    "pekerjaan" : "Sofware Enginer",
+    "id" : 2
+  },
+  "pengguna3" : {
+    "nama" : "Abubakar",
+    "pekerjaan" : "CEO",
+    "id" : 3
+  }
+}
